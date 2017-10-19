@@ -1,0 +1,17 @@
+Version:     Beta D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#03/17/2017
+1. New animation added when updating the game.
+2. Bugs fixed.
+3. New logic way to initialize the board.
+4. New function: Now you can turn on the Hint to get the places that place your piece.
+5. Some enhancement of the structure of the codes.
+6. Bugs fixed.
+#2017-06-24 
+Bug fix: Now the hints can be refreshed correctly.
+#2017-06-25 
+Bugs fix: Now the game can jump to the correct player if another player's turn has been skipped.
+#2017-06-27 
+Bug fix: Fix a bug that can causes the AI not to make a move at first when the player's turn has been skipped.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Suggestion:  Please Update!
